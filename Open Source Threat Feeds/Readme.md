@@ -7,7 +7,7 @@ If you are NOT using these feeds with an existing ExtraHop appliance you are obv
 https://github.com/ExtraHop/threat-intelligence-toolkit
 
 **LIMO:** A medley of malicious hosts,IPs, uris, etc from the free Anomali Limo service
-**Source:** The ExtraHop Threat Intelligence Toolkit: https://github.com/ExtraHop/threat-intelligence-toolkit
+**Intel Source:** The ExtraHop Threat Intelligence Toolkit: https://github.com/ExtraHop/threat-intelligence-toolkit
 
 **Brute Force CTI:** A list of Firehol.org suspected brute borce IPs
 **Source:** http://iplists.firehol.org/?ipset=normshield_high_bruteforce
