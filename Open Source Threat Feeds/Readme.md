@@ -23,6 +23,9 @@ https://github.com/ExtraHop/threat-intelligence-toolkit
 **Source:** https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 
 **ToR Nodes:** FireHol.org's list of ToR Nods
+**OBSOLETE NOW THAT IT IS AN ON BOX DETECTION**
+
+**FruxLabs:** These guys do a great job of curating some nice CTI so we have added IP and Domain lists
 
 **Source:** https://iplists.firehol.org/files/bm_tor.ipset
 
